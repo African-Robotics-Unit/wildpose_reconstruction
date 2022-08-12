@@ -1,0 +1,18 @@
+# Folder
+
+.vscode
+.cache
+.config
+.ipynb_checkpoints
+.ipython
+.jupyter
+.local
+.npm
+.bash_history
+.python_history
+__pycache__
+data
+
+# Files
+
+.DS_Store
