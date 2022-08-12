@@ -10,9 +10,9 @@
 .npm
 .bash_history
 .python_history
-#__pycache__
+__pycache__
 data
 
 # Files
 
-#.DS_Store
+.DS_Store
